@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 source 'https://rubygems.org' do
   gem "ruby"
-  gem "jekyll", "3.8.5"
+  gem "jekyll", "4.0.0"
   gem "neat", "3.0.0"
   gem "bourbon", "5.1.0"
 end
