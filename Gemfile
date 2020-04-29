@@ -8,6 +8,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+
+ruby "2.6.2"
+
 source 'https://rubygems.org' do
   gem "ruby"
   gem "jekyll", "4.0.0"
